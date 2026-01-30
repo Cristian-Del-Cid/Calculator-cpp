@@ -1,2 +1,2 @@
-# Calculator-cpp
-This is a calculator that I created in my house for a college homework 
+# Calculator.cpp
+This is a simple calculator program written in C++ for a college homework assignment.
